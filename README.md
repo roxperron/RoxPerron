@@ -1,6 +1,15 @@
-                                                  ![Hi there! I'm Rox](https://user-images.githubusercontent.com/49700156/195728601-e79f3b8a-ee67-458e-a262-0243d4424f1b.png)
+            
+           
 
-Since 2020, I work as a quality assurance analyst. I am currently taking the front-end development course at Cégep de Trois-Rivières. My interests are in web and mobile application development, specifically in automation and programming.
+<img align="center" src="https://user-images.githubusercontent.com/49700156/195731664-f4208d84-1d44-42f9-b0a8-a9b341be7611.png" />
+ 
+ 
+ 
 
-[Linkedin](https://www.linkedin.com/in/roxanne-perron-97170917b/)
+#### I've been working as a QA Analyst since 2020, since then my passion for IT has only increased. In the fall of 2021, I started a program in front-end development.  I love creating interfaces for websites and web applications. Take a look at my first projects in my pins! 
+
+Reach me on : [Linkedin](https://www.linkedin.com/in/roxanne-perron-97170917b/) or by email at misscyborgdev@gmail.com. 
+:nerd_face: :v:
+
+
 
