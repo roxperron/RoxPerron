@@ -12,7 +12,7 @@ I am from Quebec City, Canada and I work as a Quality Assurance Analyst for Owne
 
 
 Reach me at : misscyborgdev@gmail.com <br>
-Visit my portfolio here : 
+Visit my portfolio here : https://roxperron.github.io/Portfolio/
 :v:
 
 
