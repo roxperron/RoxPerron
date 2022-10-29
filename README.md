@@ -5,7 +5,7 @@
 
 
 
-I am from Quebec City, Canada and I work as a Quality Assurance Analyst for Owner Hub. I am studying front-end web development at Cégep de Trois-Rivières and I will finish my program in June. In the AEC web development program, we learn the basic HTML, CSS, and Java Script languages, tools like Sass and Bootstrap and the React, Vue.js and Angular frameworks. My favorite part is creating apps using the frameworks. 
+I am from Quebec City, Canada and I work as a Quality Assurance Analyst for Owner Hub. I am studying front-end web development at Cégep de Trois-Rivières and I will finish my program in June. In the AEC web development program, we learn the basic HTML, CSS, and Java Script languages, tools like Sass, Bootstrap, Git and Github and the React, Vue.js and Angular frameworks. My favorite part is creating apps using the frameworks. 
  
 
 
